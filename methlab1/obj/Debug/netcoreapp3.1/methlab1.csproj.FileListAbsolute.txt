@@ -1,0 +1,11 @@
+C:\Users\Человек\Desktop\project\methlab1\methlab1\bin\Debug\netcoreapp3.1\methlab1.exe
+C:\Users\Человек\Desktop\project\methlab1\methlab1\bin\Debug\netcoreapp3.1\methlab1.deps.json
+C:\Users\Человек\Desktop\project\methlab1\methlab1\bin\Debug\netcoreapp3.1\methlab1.runtimeconfig.json
+C:\Users\Человек\Desktop\project\methlab1\methlab1\bin\Debug\netcoreapp3.1\methlab1.runtimeconfig.dev.json
+C:\Users\Человек\Desktop\project\methlab1\methlab1\bin\Debug\netcoreapp3.1\methlab1.dll
+C:\Users\Человек\Desktop\project\methlab1\methlab1\bin\Debug\netcoreapp3.1\methlab1.pdb
+C:\Users\Человек\Desktop\project\methlab1\methlab1\obj\Debug\netcoreapp3.1\methlab1.csprojAssemblyReference.cache
+C:\Users\Человек\Desktop\project\methlab1\methlab1\obj\Debug\netcoreapp3.1\methlab1.AssemblyInfoInputs.cache
+C:\Users\Человек\Desktop\project\methlab1\methlab1\obj\Debug\netcoreapp3.1\methlab1.AssemblyInfo.cs
+C:\Users\Человек\Desktop\project\methlab1\methlab1\obj\Debug\netcoreapp3.1\methlab1.dll
+C:\Users\Человек\Desktop\project\methlab1\methlab1\obj\Debug\netcoreapp3.1\methlab1.pdb
